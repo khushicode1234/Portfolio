@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.87716ce0.css",
+    "main.css": "/static/css/main.720d1b45.css",
     "main.js": "/static/js/main.af46c4eb.js",
     "static/media/ShoppingCart.jpg": "/static/media/ShoppingCart.8e0f0200f20419397a19.jpg",
     "static/media/coinInsight.jpg": "/static/media/coinInsight.8332f0a3f859358fb791.jpg",
     "static/media/ME.jpg": "/static/media/ME.09ae2720f3a4ea7a6fdb.jpg",
     "static/media/URLShortener.jpg": "/static/media/URLShortener.64d00e8381faa273b6ae.jpg",
     "index.html": "/index.html",
-    "main.87716ce0.css.map": "/static/css/main.87716ce0.css.map",
+    "main.720d1b45.css.map": "/static/css/main.720d1b45.css.map",
     "main.af46c4eb.js.map": "/static/js/main.af46c4eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.87716ce0.css",
+    "static/css/main.720d1b45.css",
     "static/js/main.af46c4eb.js"
   ]
 }

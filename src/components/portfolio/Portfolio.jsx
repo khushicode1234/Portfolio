@@ -22,6 +22,7 @@ const Portfolio = () => {
               href="https://github.com/khushicode1234/Crypto-tracker"
               className="btn"
               target="_blank"
+              rel="noreferrer"
             >
               Github
             </a>
@@ -29,6 +30,7 @@ const Portfolio = () => {
               href="https://crypto-tracker-sps.netlify.app"
               className="btn btn-primary"
               target="_blank"
+              rel="noreferrer"
             >
               Live Demo
             </a>
@@ -45,6 +47,7 @@ const Portfolio = () => {
               href="https://github.com/khushicode1234?tab=repositories"
               className="btn"
               target="_blank"
+              rel="noreferrer"
             >
               Github
             </a>
@@ -52,6 +55,7 @@ const Portfolio = () => {
               href="https://github.com/khushicode1234/URL-Shortner.git"
               className="btn btn-primary"
               target="_blank"
+              rel="noreferrer"
             >
               Live Demo
             </a>
@@ -68,10 +72,11 @@ const Portfolio = () => {
              href="https://github.com/khushicode1234?tab=repositories"
             className="btn"
               target="_blank"
+              rel="noreferrer"
             >
               Github
             </a>
-            <a href="#" className="btn btn-primary" target="root">
+            <a href="#home" className="btn btn-primary" target="_blank" rel="noreferrer">
               Live Demo
             </a>
           </div>

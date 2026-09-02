@@ -1,6 +1,5 @@
 import React from 'react'
 import {MdOutlineMailOutline} from "react-icons/md";
-import {BsWhatsapp} from "react-icons/bs/";
 import { BsLinkedin } from "react-icons/bs/";
 import './contact.css'
 
@@ -25,7 +24,7 @@ const Contact = () => {
             <MdOutlineMailOutline className="contact_option-icon" />
             <h4>Email</h4>
             <h5>khusirajput6370@gmail.com</h5>
-            <a href="mailto:khusirajput6370@gmail.com" target="_blank">
+            <a href="mailto:khusirajput6370@gmail.com" target="_blank" rel="noreferrer">
               Send a message
             </a>
           </article>
@@ -36,6 +35,7 @@ const Contact = () => {
             <a
               href="https://www.linkedin.com/in/rahul-gupta-73371a20b/"
               target="_blank"
+              rel="noreferrer"
             >
               Send a message
             </a>

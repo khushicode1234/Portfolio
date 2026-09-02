@@ -11,7 +11,7 @@ const Nav = () => {
 
   return (
     <nav>
-      <a href="#" className={activeNav === "#" ? "active" : ""}>
+      <a href="#home" className={activeNav === "#" ? "active" : ""}>
         <AiOutlineHome />
       </a>
       <a

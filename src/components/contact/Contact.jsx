@@ -33,7 +33,7 @@ const Contact = () => {
             <h4>Linkedin</h4>
             <h5>sonam singh</h5>
             <a
-              href="https://www.linkedin.com/in/rahul-gupta-73371a20b/"
+              href="https://www.linkedin.com/in/sonam-priyadarshini-singh-7b84403b7/"
               target="_blank"
               rel="noreferrer"
             >
